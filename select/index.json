@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ありきたり",
+  "base_artist": "WON",
+  "createdAt": "2026-02-27T10:20:07.960848Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありきたり - Acoustic Version",
+      "artist": "WON",
+      "has_synced": false,
+      "path": "select/pl_01_ありきたり_-_Acoustic_Version_WON.txt"
+    }
+  ]
+}
